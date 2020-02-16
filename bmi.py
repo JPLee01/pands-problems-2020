@@ -4,7 +4,7 @@
 #Ask user to input their weight in kilograms
 weight = float(input("Enter Weight in Kilograms"))
 
-#ASk user to input thier height in centimeters
+#Ask user to input thier height in centimeters
 height = float(input("Enter Height in Centimeters"))
 
 #BMI calaculated by dividing weight by height (in meters squared)

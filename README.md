@@ -9,3 +9,12 @@
 
 #Week Two Weekly Task, originally completed on 26 Jan but to a different repository
 #URL of other repository: https://github.com/JPLee01/GMIT-College-Work
+
+#Week Three Weekly Task, originally completed on 02 Feb but to a different repository
+#URL of other repository: https://github.com/JPLee01/Variables
+
+#Week Four Weekly Task, originally completed on 08 Feb but to a different repository
+#URL of other repository: https://github.com/JPLee01/Week4
+
+#Week Five Weekly Task, originally completed on 16 Feb but to a different repository
+#URL of other repository: https://github.com/JPLee01/Week-5
