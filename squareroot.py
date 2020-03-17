@@ -50,7 +50,9 @@ if __name__ == '__main__':
 #       If mid * mid < n then recur for the second half.
 #       If mid * mid > n then recur for the first half.   
 
-# References
+# References:
 # "Defining and Using Functions" section of A Whirlwind Tour of Python by Jake Vanderplas.
 # https://www.geeksforgeeks.org/square-root-of-a-number-without-using-sqrt-function/
- 
+# https://math.mit.edu/~stevenj/18.335/newton-sqrt.pdf
+# https://www.math.upenn.edu/~kazdan/202F09/sqrt.pdf
+# https://hackernoon.com/calculating-the-square-root-of-a-number-using-the-newton-raphson-method-a-how-to-guide-yr4e32zo

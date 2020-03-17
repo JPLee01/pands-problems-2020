@@ -51,6 +51,9 @@ if __name__ == '__main__':
 # References
 # "Defining and Using Functions" section of A Whirlwind Tour of Python by Jake Vanderplas.
 # https://www.geeksforgeeks.org/square-root-of-a-number-without-using-sqrt-function/
+# https://math.mit.edu/~stevenj/18.335/newton-sqrt.pdf
+# https://www.math.upenn.edu/~kazdan/202F09/sqrt.pdf
+# https://hackernoon.com/calculating-the-square-root-of-a-number-using-the-newton-raphson-method-a-how-to-guide-yr4e32zo
 
 #Mathematical formula for square root
 # def sqrt (n, x, x1, x2, x3, x4):
