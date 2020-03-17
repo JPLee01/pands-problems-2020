@@ -24,7 +24,7 @@ plt.plot(f, 'r.', label = "f(x)=x")
 plt.plot(g, 'g.', label = "g(x)=x2")
 plt.plot(h, 'b.', label = "h(x)=x3")
 
-#Plot a dashed line connecting the points (if wanted to along x and y axis)
+#Plot a dashed line connecting the points (if wanted to) along x and y axis
 #plt.plot([f, g, h], [f, g, h], marker='o', color='c')
 
 #Insert a name of the X axis
@@ -49,6 +49,7 @@ plt.show()
 #References:
 #https://realpython.com/python-matplotlib-guide/
 #https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/
+#https://python-graph-gallery.com/matplotlib/
 
 
 
