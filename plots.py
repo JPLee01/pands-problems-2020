@@ -47,9 +47,10 @@ plt.show()
 
 
 #References:
-#https://realpython.com/python-matplotlib-guide/
-#https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/
-#https://python-graph-gallery.com/matplotlib/
+# Real Python "Python Plotting With Matplotlib (Guide)" https://realpython.com/python-matplotlib-guide/
+# https://realpython.com/python-matplotlib-guide/
+# https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/
+# https://python-graph-gallery.com/matplotlib/
 
 
 

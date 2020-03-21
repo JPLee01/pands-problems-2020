@@ -16,6 +16,8 @@ with open('moby-dick.txt', 'r') as f:
 #print the number of "e's" found in the file
 print("The number of e's in this file is", e) 
 
-#references: https://easycodebook.com/python-text-file-program-to-count-vowels/
-#https://stackoverflow.com/questions/22694244/counting-specific-letters-or-symbols-in-a-text-file-in-python
-#https://docs.python.org/3/tutorial/inputoutput.html
+#References: 
+# Real Python: "Reading and Writing Files in Python (Guide)" https://realpython.com/read-write-files-python/
+# https://easycodebook.com/python-text-file-program-to-count-vowels/
+# https://stackoverflow.com/questions/22694244/counting-specific-letters-or-symbols-in-a-text-file-in-python
+# https://docs.python.org/3/tutorial/inputoutput.html
