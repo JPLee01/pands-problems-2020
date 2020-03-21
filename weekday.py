@@ -18,3 +18,8 @@ if n <= 4:
 else:
     print("It is the weekend, yay!")
 
+# References:
+# Real Python "Lists and Tuples in Python" https://realpython.com/python-lists-tuples/
+# Real Python "Dictionaries in Python" https://realpython.com/python-dicts/
+# https://pythontic.com/datetime/date/weekday
+# https://stackoverflow.com/questions/29384696/how-to-find-current-day-is-weekday-or-weekends-in-python

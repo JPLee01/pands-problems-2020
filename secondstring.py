@@ -12,3 +12,8 @@ print(sliced[::2])
 
 
 #how to print evey second word in of the sentence correct order  print(s[0:99:2]).
+
+# References:
+# "Built-in Types" section of A Whirlwind Tour of Python by Jake Vanderplas.
+# https://www.programiz.com/python-programming/methods/built-in/slice
+# https://www.journaldev.com/23584/python-slice-string
