@@ -36,8 +36,7 @@ URL of other repository: https://github.com/JPLee01/Week-5
 * Please also be advised that since the commit on 16 February where the Weekly tasks for Week 2-5 were added to the pands-problems-2020 respiratory I have no longer used/committed to the respiratories listed above.
 
 ## References for the Weekly Tasks
-------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------
+
 
 ### Week 2: BMI
 ------------------------------------------------------------------------------------------------
